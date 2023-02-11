@@ -11,7 +11,7 @@ import DownloadButton from "./components/DownloadButton";
 import SplineScene from "./components/SplineScene";
 import CloseButton from "./components/CloseButton";
 
-import DownloadFile from "./smart_home_final.spline.zip";
+import DownloadFile from "./smart_home_final.zip";
 import ImageControl from "./images/controls.png";
 
 export default function App() {
