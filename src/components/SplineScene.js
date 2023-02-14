@@ -3,13 +3,8 @@ import styled from "styled-components";
 export default function App() {
   return (
     <Wrapper>
-
-      <Spline
-        className="spline"
-        scene="https://prod.spline.design/2RGptqpHPuG1FpgT/scene.splinecode"
-        />
+     <Spline  className="spline" scene="https://prod.spline.design/2RGptqpHPuG1FpgT/scene.splinecode" />
    </Wrapper>
-
   );
 }
 
