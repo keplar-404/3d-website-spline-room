@@ -6,7 +6,7 @@ export default function App() {
 
       <Spline
         className="spline"
-        scene="https://prod.spline.design/sRqHhgxtw74jdNFJ/scene.splinecode"
+        scene="https://prod.spline.design/2RGptqpHPuG1FpgT/scene.splinecode"
         />
    </Wrapper>
 
